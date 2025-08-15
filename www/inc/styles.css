@@ -1,0 +1,18 @@
+
+div.logo {
+    margin: auto;
+    text-align:center;
+    max-height:100%;
+    max-width:100%;
+
+    img {
+    max-height:80vh;
+    max-width:80vw;
+    }
+}
+h1 {
+text-align:center;
+}
+#footer {
+text-align:center;
+}
