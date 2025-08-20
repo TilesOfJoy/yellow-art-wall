@@ -24,6 +24,10 @@ h3 {
     max-width:700px;
     margin: 10px auto;
 }
+span.link-comment {
+    font-size: 0.8em;
+    color: #22f;
+}
 #footer {
 background-color:#ffde59;
 padding:0.5em 3em;
