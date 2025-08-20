@@ -1,4 +1,8 @@
-
+body {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size:1.2em;
+    margin:0;
+}
 div.logo {
     margin: auto;
     text-align:center;
@@ -13,6 +17,18 @@ div.logo {
 h1 {
 text-align:center;
 }
+h3 {
+//text-align:center;
+}
+#main {
+    max-width:700px;
+    margin: 10px auto;
+}
 #footer {
-text-align:center;
+background-color:#ffde59;
+padding:0.5em 3em;
+margin:0;
+ p {
+    margin:0;
+ }
 }
